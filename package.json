@@ -1,0 +1,30 @@
+{
+  "name": "res-dump-plugin",
+  "version": "0.0.1",
+  "description": "Bundle assets are not imported by js. See https://github.com/jzzj/res-dump-service",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzzj/res-dump-plugin.git"
+  },
+  "keywords": [
+    "res-dump",
+    "webpack",
+    "plugin"
+  ],
+  "author": "zangzhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzzj/res-dump-plugin/issues"
+  },
+  "homepage": "https://github.com/jzzj/res-dump-plugin#readme",
+  "devDependencies": {
+    "config": "^1.24.0",
+    "glob": "^7.1.1",
+    "res-dump-service": "0.0.1",
+    "res-dump-util": "0.0.1"
+  }
+}
