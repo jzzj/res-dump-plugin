@@ -1,6 +1,6 @@
 {
   "name": "res-dump-plugin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Bundle assets are not imported by js. See https://github.com/jzzj/res-dump-service",
   "main": "lib/index.js",
   "scripts": {
@@ -21,10 +21,10 @@
     "url": "https://github.com/jzzj/res-dump-plugin/issues"
   },
   "homepage": "https://github.com/jzzj/res-dump-plugin#readme",
-  "devDependencies": {
+  "dependencies": {
     "config": "^1.24.0",
     "glob": "^7.1.1",
     "res-dump-service": "0.0.1",
-    "res-dump-util": "0.0.1"
+    "res-dump-util": "0.0.3"
   }
 }
