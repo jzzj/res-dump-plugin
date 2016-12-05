@@ -1,5 +1,5 @@
 # res-dump-plugin
-Bundle assets are not imported by js. See https://github.com/jzzj/res-dump-service
+Build assets that are not import by js. See https://github.com/jzzj/res-dump-service
 
 ## Usage
 ```js
