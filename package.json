@@ -24,7 +24,7 @@
   "dependencies": {
     "config": "^1.24.0",
     "glob": "^7.1.1",
-    "res-dump-service": "^0.2.2",
+    "res-dump-service": "^0.2.3",
     "res-dump-util": "^0.0.5"
   }
 }
